@@ -29,7 +29,7 @@ To run the demo follow these steps:
     ```sh
 
     # Make sure you have the above prerequisites installed already!
-    git clone https://github.com/Daltonic/timelessNFT PROVIDER_NAME
+    git clone https://github.com/Monodeep-Das/trademark.github.io.git
     cd PROVIDER_NAME # Navigate to the new folder.
     yarn install # Installs all the dependencies.
     ```
