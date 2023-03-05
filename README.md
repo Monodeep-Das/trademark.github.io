@@ -5,7 +5,7 @@
 This example shows How to Build a Better NFT Marketplace with React, Solidity, and CometChat:
 
 ![TimelessNFT Project](./screenshots/0.gif)
-<center><figcaption>TimelessNFT Project</figcaption></center>
+<center><figcaption>TeamTrademark</figcaption></center>
 
 ## Technology
 
